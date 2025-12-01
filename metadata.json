@@ -1,0 +1,7 @@
+{
+  "name": "V24-Environmental & Housekeeping Inspection System",
+  "description": "A comprehensive web-based inspection system for hospital environmental services and cleanliness, compliant with JCI, WHO, and CDC standards. It supports both English and Arabic languages and provides role-based dashboards for inspectors and supervisors.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
